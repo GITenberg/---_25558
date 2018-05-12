@@ -1,0 +1,30 @@
+_repo: '---_25558'
+_version: 0.1.0
+alternative_title: Shen Yin Yu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lü, Kun
+    aliases:
+    - Lu, Kun
+    - 呂坤
+    birthdate: 1536
+    deathdate: 1618
+    gutenberg_agent_id: '31422'
+    url: http://www.gutenberg.org/2009/agents/31422
+description: ''
+gutenberg_issued: '2008-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25558'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'BJ'
+title: 呻吟語
+url: http://www.gutenberg.org/ebooks/25558
